@@ -1,2 +1,3 @@
 # Job-Hunting-Guides-for-CE-Students
-컴퓨터공학전공자를 위한 취업 준비 가이드
+
+## 자기소개서 작성 시 유의사항 https://github.com/KPUCE/Job-Hunting-Guides-for-CE-Students/docs.CoverLetter
