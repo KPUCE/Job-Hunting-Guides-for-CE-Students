@@ -6,3 +6,6 @@
 
 ## 자기소개서 작성 시 유의사항 
   * (https://github.com/KPUCE/Job-Hunting-Guides-for-CE-Students/blob/main/docs/CoverLetter.md)
+
+## ICT/SW 주요 공모전 안내
+
