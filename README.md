@@ -22,3 +22,4 @@
   10. ICT/SW 여성 창업 공모전(과학기술정보통신부, NIPA, IT여성기업인협회)
 ---
 ## 논문 제출 추천 학회 및 학술대회 및 논문지
+   * (https://github.com/KPUCE/Job-Hunting-Guides-for-CE-Students/blob/main/docs/Papersubmission.md)
