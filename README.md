@@ -8,7 +8,14 @@
   * (https://github.com/KPUCE/Job-Hunting-Guides-for-CE-Students/blob/main/docs/CoverLetter.md)
 
 ## ICT/SW 주요 공모전 안내
-  1. 한이음드림업 공모전
-  2. 임베디드소프트웨어 경진대회
-  3.  
+  1. 한이음드림업 공모전(과학기술정보통신부)
+  2. 임베디드소프트웨어 경진대회(산업통상자원부)
+  3. Swiftt Student Challenge(Apple): 개인
+  4. Google Solution Cahllenge(google): xla
+  5. 서울시 디지텅공간정보 활용 공모전(서울시)
+  6. 미레융합 인재개발 소프트웨어 챌린지(과학기술정보통신부, 경산시)
+  7. 장애인 분야 해커톤(장애플러스 기술)(한국장애인재단, 과학기술정보통신부, 보건복지부)
+  8. 현대오토에버 배리어프리 앱 개발 콘테스트(장애인 특화)(현대 오토에버)
+  9. 문화 디지털 혁신 및 문화데이터 공모전(문화체육관광부)
+  10. ICT/SW 여성 창업 공모전(과학기술정보통신부, NIPA, ㅑㅆdutjdrldjqdlsguqghl)
    * (https://github.com/KPUCE/Job-Hunting-Guides-for-CE-Students/blob/main/docs/ICTSW-Competition.md)
