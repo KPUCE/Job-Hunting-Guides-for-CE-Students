@@ -26,7 +26,7 @@
  * 문제 해결 능력
 
 ## 생성형 AI 활용 능력
-  * 생성형 AI 활용 능력(프로제그 수행에 적극적으로 활용하여 경험담을 기술)
+  * 생성형 AI 활용 능력(프로젝트 수행에 적극적으로 활용하여 경험담을 기술)
   * Gemini, GPT, Claude, Grok
   * Claude Code, Claude Skills, Claude Cowork
 
