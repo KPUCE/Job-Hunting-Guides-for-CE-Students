@@ -85,3 +85,4 @@
 - https://www.kips.or.kr/
 
 ## 3. 한국인터넷방송통신학회(현 국제인공지능학회) 논문지
+- http://www.iibc.kr/
