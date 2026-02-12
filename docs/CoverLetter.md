@@ -16,9 +16,14 @@
 
 ## 문제정의 및 문제해결 역량
 
+## 생성형 AI 활용 능력
+  * 생성형 AI 활용 능력
+  * Gemini, GPT, Claude, Grok
+  * Claude Code, Claude Skills, Claude Cowork
+
 ## 소프트웨어 스킬
   * 협업 능력, 커뮤니케이션 능력, 인성
-
+    
 ## 성장가능성 및 학습 의지
   * 본인의 잠재력, 새로운 기술을 습득하고자 하는 의지, 
 
