@@ -8,4 +8,7 @@
   * (https://github.com/KPUCE/Job-Hunting-Guides-for-CE-Students/blob/main/docs/CoverLetter.md)
 
 ## ICT/SW 주요 공모전 안내
+  1. 한이음드림업 공모전
+     2. 임베디드소프트웨어 경진대회
+     3. 
    * (https://github.com/KPUCE/Job-Hunting-Guides-for-CE-Students/blob/main/docs/ICTSW-Competition.md)
