@@ -8,4 +8,4 @@
   * (https://github.com/KPUCE/Job-Hunting-Guides-for-CE-Students/blob/main/docs/CoverLetter.md)
 
 ## ICT/SW 주요 공모전 안내
-
+   * (https://github.com/KPUCE/Job-Hunting-Guides-for-CE-Students/blob/main/docs/ICTSW-Competitipn)
