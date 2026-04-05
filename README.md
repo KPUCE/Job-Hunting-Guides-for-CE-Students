@@ -12,7 +12,7 @@
    * (https://github.com/KPUCE/Job-Hunting-Guides-for-CE-Students/blob/main/docs/ICTSW-Competition.md)
   1. 한이음드림업 공모전(과학기술정보통신부)
   2. 임베디드소프트웨어 경진대회(산업통상자원부)
-  3. Swiftt Student Challenge(Apple): 개인
+  3. Swift Student Challenge(Apple): 개인
   4. Google Solution Cahllenge(google): xla
   5. 서울시 디지텅공간정보 활용 공모전(서울시)
   6. 미레융합 인재개발 소프트웨어 챌린지(과학기술정보통신부, 경산시)
