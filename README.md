@@ -13,7 +13,7 @@
   1. 한이음드림업 공모전(과학기술정보통신부)
   2. 임베디드소프트웨어 경진대회(산업통상자원부)
   3. Swift Student Challenge(Apple): 개인
-  4. Google Solution Cahllenge(google): xla
+  4. Google Solution Challenge(google): 팀
   5. 서울시 디지텅공간정보 활용 공모전(서울시)
   6. 미레융합 인재개발 소프트웨어 챌린지(과학기술정보통신부, 경산시)
   7. 장애인 분야 해커톤(장애플러스 기술)(한국장애인재단, 과학기술정보통신부, 보건복지부)
