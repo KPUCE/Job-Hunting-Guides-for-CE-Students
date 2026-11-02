@@ -7,6 +7,7 @@
 ---
 ## 자기소개서 작성 시 유의사항 
   * (https://github.com/KPUCE/Job-Hunting-Guides-for-CE-Students/blob/main/docs/CoverLetter.md)
+  * (https://github.com/KPUCE/Job-Hunting-Guides-for-CE-Students/blob/main/01-%EC%9E%90%EA%B8%B0%EC%86%8C%EA%B0%9C%EC%84%9C%EC%99%80_%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4_%EC%9E%91%EC%84%B1%EB%B2%95_%EC%9E%91%EC%97%85%EB%B3%B8(%EC%A0%84%EA%B4%91%EC%9D%BC20261102).pdf)
 ---
 ## ICT/SW 주요 공모전 안내
    * (https://github.com/KPUCE/Job-Hunting-Guides-for-CE-Students/blob/main/docs/ICTSW-Competition.md)
